@@ -1,16 +1,50 @@
-## Hi there 👋
+# Olá, eu sou a Djennifer Carvalho 👋
 
-<!--
-**taaehy/taaehy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora web com foco na criação de interfaces responsivas e aplicações completas usando **React, Next.js, TypeScript e Node.js**.
 
-Here are some ideas to get you started:
+Tenho desenvolvido projetos que unem experiência visual, organização de componentes, integração com APIs REST e publicação em produção.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Tecnologias
+
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF)
+![CSS Modules](https://img.shields.io/badge/CSS_Modules-111827?style=for-the-badge&logo=cssmodules&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
+
+## Projetos em destaque
+
+### ⚡ CHARGin — site institucional
+
+Site responsivo para uma empresa de mobilidade elétrica, criado com identidade visual premium, componentes reutilizáveis e páginas otimizadas para performance, acessibilidade e SEO.
+
+**Destaques:** Next.js App Router, TypeScript, Server e Client Components, rotas dinâmicas, mapa interativo, formulário com validação e geração estática de páginas.
+
+[Código](https://github.com/taaehy/chargin-site-institucional) · [Demonstração](https://chargin-site-institucional.vercel.app)
+
+### ✅ TaskManager — aplicação full stack
+
+Aplicação para criar, pesquisar, editar, concluir e excluir tarefas, com interface responsiva integrada a uma API REST própria.
+
+**Front-end:** React 19, Vite, CSS, componentes reutilizáveis e integração com API.
+
+**Back-end:** Node.js, módulos nativos, arquitetura em camadas, CORS, UUID e persistência assíncrona em JSON.
+
+[Front-end](https://github.com/taaehy/tasks-front) · [API](https://github.com/taaehy/tasks-api) · [Demonstração](https://tasks-front-seven.vercel.app)
+
+## Atualmente
+
+- Aprimorando minhas habilidades em desenvolvimento web moderno
+- Construindo projetos responsivos e acessíveis
+- Evoluindo práticas de arquitetura, integração com APIs e deploy
+
+## Contato
+
+[![GitHub](https://img.shields.io/badge/GitHub-taaehy-181717?style=for-the-badge&logo=github)](https://github.com/taaehy)
+
+<!-- Adicione seu LinkedIn aqui quando desejar:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Djennifer_Carvalho-0A66C2?style=for-the-badge&logo=linkedin)](COLE_AQUI_SEU_LINKEDIN)
 -->
