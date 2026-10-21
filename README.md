@@ -27,7 +27,7 @@ Aplicação full stack para organizar bugs, evidências, testes e releases, com 
 
 [Código](https://github.com/taaehy/lume) · [Demonstração](https://lume-ecru-two.vercel.app)
 
-### ⚡ CHARGin — site institucional
+###  CHARGin — site institucional
 
 Site responsivo para uma empresa de mobilidade elétrica, criado com identidade visual premium, componentes reutilizáveis e páginas otimizadas para performance, acessibilidade e SEO.
 
@@ -35,7 +35,7 @@ Site responsivo para uma empresa de mobilidade elétrica, criado com identidade 
 
 [Código](https://github.com/taaehy/chargin-site-institucional) · [Demonstração](https://chargin-site-institucional.vercel.app)
 
-### ✅ TaskManager — aplicação full stack
+###  TaskManager — aplicação full stack
 
 Aplicação para criar, pesquisar, editar, concluir e excluir tarefas, com interface responsiva integrada a uma API REST própria.
 
