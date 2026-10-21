@@ -17,6 +17,16 @@ Tenho desenvolvido projetos que unem experiência visual, organização de compo
 
 ## Projetos em destaque
 
+### Lume — plataforma de qualidade de software
+
+Aplicação full stack para organizar bugs, evidências, testes e releases, com interface responsiva e dados persistidos em PostgreSQL.
+
+**Destaques:** autenticação, permissões de acesso, quadro Kanban, anexos privados, indicadores de qualidade e critérios de aprovação de releases.
+
+**Tecnologias:** Next.js, React, TypeScript, Tailwind CSS, Prisma e PostgreSQL. Publicação na Vercel, com banco Neon e armazenamento no Vercel Blob.
+
+[Código](https://github.com/taaehy/lume) · [Demonstração](https://lume-ecru-two.vercel.app)
+
 ### ⚡ CHARGin — site institucional
 
 Site responsivo para uma empresa de mobilidade elétrica, criado com identidade visual premium, componentes reutilizáveis e páginas otimizadas para performance, acessibilidade e SEO.
